@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">FontExampleApp</string>
+    <string name="some_text_default">Theme defined font</string>
+    <string name="some_text_custom">XML layout defined font</string>
+
+</resources>
